@@ -2,7 +2,7 @@
 
 # Tomás Ramírez
 
-Full Stack Developer · Data Science · AI
+Analista de Datos
 
 Estudiante de Ciencia de Datos 🇦🇷 |
 Construyo sistemas con agentes de IA, automatización y aplicaciones web.
@@ -31,9 +31,3 @@ También: LangGraph · ChromaDB · Whisper · Power BI · Vite · Flask
 | **DocuGuard AI** | Sistema con agentes de IA que analiza contratos y facturas, detecta cláusulas riesgosas y busca por significado con base de datos vectorial. | Python · LangGraph · ChromaDB |
 | **Asistente de IA Personal** | Asistente de escritorio con reconocimiento de voz, múltiples LLMs y automatización de tareas del sistema operativo. | Python · PySide6 · Whisper |
 | **CrackTime** | Estimador de fortaleza de contraseñas que corre 100% en el navegador, sin enviar datos a ningún servidor. | R · Shiny · WebAssembly |
-
-## Experiencia
-
-**Freelance - Full Stack Developer** · 2026 – Actualidad
-
-Desarrollo landings totalmente funcionales para comercios, tanto en front como en back. En el frontend trabajo con React y Vite, maquetación responsive con HTML/CSS y lógica de interfaz con JavaScript, con diseños fieles a la identidad visual de cada cliente. En el backend uso Flask para manejar formularios, lógica del servidor y persistencia de datos. Estructuro cada proyecto en componentes reutilizables, aplicando buenas prácticas de un entorno moderno de desarrollo full stack.
